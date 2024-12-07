@@ -1,0 +1,2 @@
+# js
+im learning js
